@@ -80,6 +80,3 @@ The following tools and platforms were used in this project:
   Source: Data World
   Link: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
 
----
-Live : (Working Phase)
-
