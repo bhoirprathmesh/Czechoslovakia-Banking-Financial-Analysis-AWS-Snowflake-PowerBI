@@ -1,4 +1,7 @@
 # 🏦 Czechoslovakia Banking Financial Data Analysis
+---
+🔗 Live Preview : (Working Phase)
+https://app.powerbi.com/reportEmbed?reportId=c6909367-06ca-4834-ac5a-91838cc301a0&autoAuth=true&ctid=d1244466-1f7c-462f-810c-84815a170943
 
 ## 📌 Overview
 The **Czechoslovakia Banking Financial Data Analysis** project focuses on analyzing historical banking data to uncover insights into customer behavior, financial performance, and operational efficiency.  
