@@ -1,6 +1,6 @@
 # 🏦 Czechoslovakia Banking Financial Data Analysis
 ---
-🔗 Live Preview : (Working Phase)
+🔗 Live Preview :
 https://app.powerbi.com/reportEmbed?reportId=c6909367-06ca-4834-ac5a-91838cc301a0&autoAuth=true&ctid=d1244466-1f7c-462f-810c-84815a170943
 
 ## 📌 Overview
@@ -79,4 +79,67 @@ The following tools and platforms were used in this project:
 - Czech Financial Dataset (Anonymized Transactions)  
   Source: Data World
   Link: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
+
+---
+
+## 🔍 Key Insights from Dashboards
+
+### 📊 Executive Overview
+- The bank serves **~5,000 clients** across **4,500+ accounts** with over **1 million transactions**.
+- The **overall loan default rate is 11.14%**, indicating moderate credit risk.
+- **Profitability fluctuates year-over-year**, with strong performance in **2018 and 2021**.
+- **Hl. m. Praha** is the top-performing district in terms of account volume.
+- Account types (**Savings, Salary, NRI**) are evenly distributed, ensuring revenue diversification.
+
+---
+
+### 👥 Demographic Analysis
+- Client concentration is highest in **Hl. m. Praha**, followed by Karvina and Ostrava.
+- Gender distribution is **balanced across districts**, indicating inclusive customer reach.
+- Customers aged **50+ form the largest segment**, while **Under-25** is the smallest.
+- Regional analysis highlights opportunities for **youth-focused banking products**.
+
+---
+
+### 📈 Bank Performance Over Time
+- Transaction volumes show **steady long-term growth** with seasonal fluctuations.
+- Profit trends indicate **financial resilience despite short-term volatility**.
+- Peaks in **new account openings** align with periods of higher profitability.
+- Performance dips around 2019–2020 suggest external or operational impacts.
+
+---
+
+### 💳 Account Usage & Profitability
+- **Savings accounts** have the highest transaction volume.
+- **NRI accounts generate the highest profit**, despite lower transaction counts.
+- Average balances remain **consistent across all account types**.
+- High transaction frequency does not always translate to higher profitability.
+
+---
+
+### 🏦 Cards & Loans: Profitability vs Risk
+- **Gold cards dominate (~74%)**, making them the most popular card type.
+- Card holders contribute significantly to revenue, generating **₹27.83M in profit**.
+- Most loans are **running or successfully completed**, reflecting effective credit policies.
+- Loan default rates vary by district, enabling **region-based risk assessment**.
+
+---
+
+### 💸 Expense & Cost Analysis
+- **Withdrawals and remittances** are the primary contributors to operational expenses.
+- Expense trends closely follow transaction volumes.
+- **Salary accounts incur higher average transaction costs**.
+- Cost optimization in high-volume operations can improve overall profitability.
+
+---
+
+## 🧾 Final Conclusion
+This project demonstrates a complete **cloud-based banking analytics solution** using **AWS S3, Snowflake, and Power BI**.  
+The analysis delivers insights into **customer behavior, financial performance, loan risk, and operational efficiency**.
+
+Key takeaways include:
+- Strong and diversified customer base
+- Profitable card services and stable loan portfolio
+- Opportunities in youth acquisition and cost optimization
+
 
